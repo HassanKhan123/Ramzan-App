@@ -1,0 +1,19 @@
+body{
+    background: black;
+}
+
+.table{
+    text-align: center;
+    background: black;
+    opacity: 0.8;
+    color:white;
+}
+
+h1{
+    background-color: black;
+    color:white;
+    opacity: 0.8;
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+
